@@ -2,5 +2,5 @@
 
 Todolist written using Flask Python Framework and Bootstrap
 
-![alt text](https://github.com/kimulu/todo_list_Flask/blob/main/todoScreenshot.PNG?raw=true)
+![alt text](https://github.com/kimulu/todo_list_Flask/blob/main/static/images/todoScreenshot.PNG?raw=true)
 
